@@ -1,6 +1,6 @@
 {
     "slackUsername" : "Eze Miracle",
-    "backend" : "true",
+    "backend" : true,
     "age": 28,
     "bio": "I am a tech enthusiast"
 }
